@@ -39,6 +39,6 @@ else
   let b:undo_ftplugin = "setlocal comments< formatoptions<"
 endif
 
-" vim:set sw=2:
+" vim:set sw=4:
 
 endif

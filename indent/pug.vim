@@ -69,6 +69,6 @@ function! GetPugIndent()
   endif
 endfunction
 
-" vim:set sw=2:
+" vim:set sw=4:
 
 endif

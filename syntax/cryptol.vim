@@ -112,6 +112,6 @@ endif
 
 let b:current_syntax = "cryptol"
 
-" Options for vi: ts=8 sw=2 sts=2 nowrap noexpandtab ft=vim
+" Options for vi: ts=8 sw=4 sts=4 nowrap noexpandtab ft=vim
 
 endif

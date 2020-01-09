@@ -62,6 +62,6 @@ let &cpo = s:save_cpo
 " Add a Stylus command (to see if it's valid)
 command! Stylus !clear; cat % | stylus
 
-" vim:set sw=2:
+" vim:set sw=4:
 
 endif

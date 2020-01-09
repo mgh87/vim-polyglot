@@ -125,6 +125,6 @@ hi link jenkinsFileDockerKeyword     jenkinsfilePipelineStep
 
 let b:current_syntax = 'Jenkinsfile'
 
-" vim:set et sw=0 ts=2 ft=vim tw=78:
+" vim:set et sw=0 ts=4 ft=vim tw=78:
 
 endif

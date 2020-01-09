@@ -25,6 +25,6 @@ syn match Number /\<\d\+\%(:\d\{2}\)\{2}\>/
 
 let b:current_syntax='cuesheet'
 
-" vim: nowrap sw=2 sts=2 ts=8:
+" vim: nowrap sw=4 sts=4 ts=8:
 
 endif

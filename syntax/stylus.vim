@@ -375,6 +375,6 @@ hi def link stylusIdChar                Special
 
 let b:current_syntax = "stylus"
 
-" vim:set sw=2:
+" vim:set sw=4:
 
 endif

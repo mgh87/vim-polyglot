@@ -967,6 +967,6 @@ endif
 
 " }}}
 
-" vim: ts=8 sts=2 sw=2 fdm=marker expandtab
+" vim: ts=8 sts=4 sw=4 fdm=marker expandtab
 
 endif

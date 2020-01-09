@@ -426,6 +426,6 @@ syn sync minlines=500
 
 let b:current_syntax = "go"
 
-" vim: sw=2 ts=2 et
+" vim: sw=4 ts=4 et
 
 endif

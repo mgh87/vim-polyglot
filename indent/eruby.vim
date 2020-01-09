@@ -109,6 +109,6 @@ endfunction
 let &cpo = s:cpo_sav
 unlet! s:cpo_sav
 
-" vim:set sw=2 sts=2 ts=8 noet:
+" vim:set sw=4 sts=4 ts=8 noet:
 
 endif

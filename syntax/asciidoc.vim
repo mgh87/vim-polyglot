@@ -182,6 +182,6 @@ hi def link asciidocTwoLineTitle Title
 hi def link asciidocURL Macro
 let b:current_syntax = "asciidoc"
 
-" vim: wrap et sw=2 sts=2:
+" vim: wrap et sw=4 sts=4:
 
 endif

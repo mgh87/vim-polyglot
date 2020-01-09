@@ -149,6 +149,6 @@ endfunction
 let &cpo = s:keepcpo
 unlet s:keepcpo
 
-" vim:set sts=2 sw=2:
+" vim:set sts=4 sw=4:
 
 endif

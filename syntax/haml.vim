@@ -108,6 +108,6 @@ if main_syntax == "haml"
   unlet main_syntax
 endif
 
-" vim:set sw=2:
+" vim:set sw=4:
 
 endif

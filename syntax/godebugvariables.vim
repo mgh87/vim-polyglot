@@ -22,6 +22,6 @@ hi def link godebugVariables Statement
 hi def link goType Type
 hi def link goBoolean Boolean
 
-" vim: sw=2 ts=2 et
+" vim: sw=4 ts=4 et
 
 endif

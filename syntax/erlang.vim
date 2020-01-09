@@ -260,6 +260,6 @@ let b:current_syntax = "erlang"
 let &cpo = s:cpo_save
 unlet s:cpo_save
 
-" vim: sw=2 et
+" vim: sw=4 et
 
 endif

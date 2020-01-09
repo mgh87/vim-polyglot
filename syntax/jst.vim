@@ -86,6 +86,6 @@ if exists("loaded_matchit")
   \ '<\@<=\([^/][^ \t>]*\)[^>]*\%(>\|$\):<\@<=/\1>'
 endif
 
-" vim: nowrap sw=2 sts=2 ts=8:
+" vim: nowrap sw=4 sts=4 ts=8:
 
 endif

@@ -38,6 +38,6 @@ CompilerSet errorformat=
 let &cpo = s:cpo_save
 unlet s:cpo_save
 
-" vim: nowrap sw=2 sts=2 ts=8:
+" vim: nowrap sw=4 sts=4 ts=8:
 
 endif

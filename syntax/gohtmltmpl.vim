@@ -16,6 +16,6 @@ syn cluster htmlPreproc add=gotplAction,goTplComment
 
 let b:current_syntax = "gohtmltmpl"
 
-" vim: sw=2 ts=2 et
+" vim: sw=4 ts=4 et
 
 endif

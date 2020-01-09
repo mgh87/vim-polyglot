@@ -130,6 +130,6 @@ function! ErubyAtCursor() abort
   return !empty(filter(synstack(line('.'), col('.')), 'index(groups, v:val) >= 0'))
 endfunction
 
-" vim: nowrap sw=2 sts=2 ts=8:
+" vim: nowrap sw=4 sts=4 ts=8:
 
 endif

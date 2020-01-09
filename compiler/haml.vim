@@ -27,6 +27,6 @@ CompilerSet errorformat=
 let &cpo = s:cpo_save
 unlet s:cpo_save
 
-" vim:set sw=2 sts=2:
+" vim:set sw=4 sts=4:
 
 endif

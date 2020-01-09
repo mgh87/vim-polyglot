@@ -1060,6 +1060,6 @@ call HtmlIndent_CheckUserSettings()
 let &cpo = s:cpo_save
 unlet s:cpo_save
 
-" vim: fdm=marker ts=8 sw=2 tw=78
+" vim: fdm=marker ts=8 sw=4 tw=78
 
 endif

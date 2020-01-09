@@ -674,6 +674,6 @@ if !exists("b:current_syntax")
   let b:current_syntax = "glsl"
 endif
 
-" vim:set sts=2 sw=2 :
+" vim:set sts=4 sw=4 :
 
 endif

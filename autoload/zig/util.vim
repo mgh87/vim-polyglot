@@ -389,6 +389,6 @@ function! zig#util#HasDebug(flag)
   return index(zig#config#Debug(), a:flag) >= 0
 endfunction
 
-" vim: sw=2 ts=2 et
+" vim: sw=4 ts=4 et
 
 endif

@@ -162,6 +162,6 @@ function GetGroovyIndent()
   return theIndent
 endfunction
 
-" vi: sw=2 et
+" vi: sw=4 et
 
 endif

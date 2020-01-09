@@ -140,7 +140,7 @@ function! GetNimIndent(lnum)
 
 endfunction
 
-" vim:sw=2
+" vim:sw=4
 
 
 endif

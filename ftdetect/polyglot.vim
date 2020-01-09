@@ -459,7 +459,7 @@ if !exists('g:polyglot_disabled') || index(g:polyglot_disabled, 'glsl') == -1
 " https://github.com/KhronosGroup/glslang
 autocmd! BufNewFile,BufRead *.vert,*.tesc,*.tese,*.glsl,*.geom,*.frag,*.comp set filetype=glsl
 
-" vim:set sts=2 sw=2 :
+" vim:set sts=4 sw=4 :
   augroup end
 endif
 
@@ -512,7 +512,7 @@ endfun
 let &cpo = s:cpo_save
 unlet s:cpo_save
 
-" vim: sw=2 ts=2 et
+" vim: sw=4 ts=4 et
   augroup end
 endif
 
@@ -1230,7 +1230,7 @@ au BufNewFile,BufRead [rR]akefile*				call s:StarSetf('ruby')
 " Rantfile
 au BufNewFile,BufRead [rR]antfile,*.rant			call s:setf('ruby')
 
-" vim: nowrap sw=2 sts=2 ts=8 noet fdm=marker:
+" vim: nowrap sw=4 sts=4 ts=8 noet fdm=marker:
   augroup end
 endif
 
@@ -1302,7 +1302,7 @@ au BufNewFile,BufRead [tT]horfile,*.thor	call s:setf('ruby')
 " Vagrant
 au BufNewFile,BufRead [vV]agrantfile		call s:setf('ruby')
 
-" vim: nowrap sw=2 sts=2 ts=8 noet fdm=marker:
+" vim: nowrap sw=4 sts=4 ts=8 noet fdm=marker:
   augroup end
 endif
 

@@ -263,6 +263,6 @@ syn sync minlines=500
 
 let b:current_syntax = 'vlang'
 
-" vim: sw=2 sts=2 et
+" vim: sw=4 sts=4 et
 
 endif

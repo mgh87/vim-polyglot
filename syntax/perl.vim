@@ -581,6 +581,6 @@ let &cpo = s:cpo_save
 unlet s:cpo_save
 
 " XXX Change to sts=4:sw=4
-" vim:ts=8:sts=2:sw=2:expandtab:ft=vim
+" vim:ts=8:sts=4:sw=4:expandtab:ft=vim
 
 endif

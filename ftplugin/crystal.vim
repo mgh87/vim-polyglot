@@ -79,6 +79,6 @@ endif
 let &cpo = s:save_cpo
 unlet s:save_cpo
 
-" vim: nowrap sw=2 sts=2 ts=8:
+" vim: nowrap sw=4 sts=4 ts=8:
 
 endif

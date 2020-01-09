@@ -727,6 +727,6 @@ endif
 
 let b:current_syntax = "octave"
 
-"EOF	vim: ts=2 et tw=80 sw=2 sts=0
+"EOF	vim: ts=4 et tw=80 sw=4 sts=0
 
 endif

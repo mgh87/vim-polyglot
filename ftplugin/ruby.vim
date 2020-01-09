@@ -435,6 +435,6 @@ endfunction
 " differs on Windows.  Email gsinclair@soyabean.com.au if you need help.
 "
 
-" vim: nowrap sw=2 sts=2 ts=8:
+" vim: nowrap sw=4 sts=4 ts=8:
 
 endif

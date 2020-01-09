@@ -30,6 +30,6 @@ hi link opamInterpolate Identifier
 
 let b:current_syntax = "opam"
 
-" vim: ts=2 sw=2
+" vim: ts=4 sw=4
 
 endif

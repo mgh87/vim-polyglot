@@ -952,6 +952,6 @@ endfunction
 let &cpo = s:cpo_save
 unlet s:cpo_save
 
-" vim:set sw=2 sts=2 ts=8 et:
+" vim:set sw=4 sts=4 ts=8 et:
 
 endif

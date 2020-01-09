@@ -25,6 +25,6 @@ setlocal fo=croql
 
 let &l:include = '^\s*@import\s\+\%(url(\)\=["'']\='
 
-" vim:set sw=2:
+" vim:set sw=4:
 
 endif

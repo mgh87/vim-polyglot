@@ -87,7 +87,7 @@ endfunction
 let &cpoptions = s:keepcpo
 unlet s:keepcpo
 
-" vim:set et ts=2 sw=2:
+" vim:set et ts=4 sw=4:
 
 
 endif

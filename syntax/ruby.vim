@@ -594,6 +594,6 @@ unlet! s:cpo_sav
 
 delc SynFold
 
-" vim: nowrap sw=2 sts=2 ts=8 noet fdm=marker:
+" vim: nowrap sw=4 sts=4 ts=8 noet fdm=marker:
 
 endif

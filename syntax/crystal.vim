@@ -398,6 +398,6 @@ hi def link crystalSpaceError		crystalError
 
 let b:current_syntax = 'crystal'
 
-" vim: nowrap sw=2 sts=2 ts=8 noet:
+" vim: nowrap sw=4 sts=4 ts=8 noet:
 
 endif

@@ -74,6 +74,6 @@ function! GetCucumberIndent()
   return indent(prevnonblank(v:lnum-1))
 endfunction
 
-" vim:set sts=2 sw=2:
+" vim:set sts=4 sw=4:
 
 endif

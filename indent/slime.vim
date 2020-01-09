@@ -10,7 +10,7 @@ runtime! indent/ruby.vim
 unlet! b:did_indent
 let b:did_indent = 1
 
-setlocal autoindent sw=2 et
+setlocal autoindent sw=4 et
 setlocal indentexpr=GetSlimeIndent()
 setlocal indentkeys=o,O,*<Return>,},],0),!^F,=end,=else,=elsif,=rescue,=ensure,=when
 
@@ -74,6 +74,6 @@ function! GetSlimeIndent()
   endif
 endfunction
 
-" vim:set sw=2:
+" vim:set sw=4:
 
 endif

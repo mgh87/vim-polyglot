@@ -73,7 +73,7 @@ function! GetJstIndent(...)
   return ind
 endfunction
 
-" vim:set sw=2 sts=2 ts=8 noet:
+" vim:set sw=4 sts=4 ts=8 noet:
 
 
 endif
